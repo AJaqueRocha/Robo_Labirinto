@@ -8,5 +8,5 @@ Desafio realizado em grupo (grupo 20) pelos alunos
 - Ludmila Timóteo
 - William Machado
 
-## Sobre
+### Sobre
 Neste projeto você irá encontrar um labirinto desenvolvido com a linguagem Python, onde o usuário insere a posição inicial e o robô percorre o labirinto automaticamente até encontrar a saída.
